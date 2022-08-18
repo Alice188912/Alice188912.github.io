@@ -1,2 +1,2 @@
-# Alice188912.gitub.io
+# Alice188912.github.io
 The website
